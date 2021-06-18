@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/378135350.svg)](https://zenodo.org/badge/latestdoi/378135350)
+
 # Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances
 
 This is the code to reproduce the figures in
